@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.responsive-chart-container {
+    width: 100%;
+    max-width: 100%;
+    overflow: hidden;
+  }
+  
