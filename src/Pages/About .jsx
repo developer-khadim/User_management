@@ -215,8 +215,11 @@ const About = () => {
           <h2 className="text-3xl font-bold text-center text-gray-900 mb-12">Contact Us</h2>
           <div className="grid grid-cols-1 md:grid-cols-3 gap-8">
             <div className="flex items-center justify-center">
-              <Mail className="h-6 w-6 text-blue-600 mr-2" />
-              <span className="text-gray-600">contact@usermanage.com</span>
+              <Mail className="h-10 w-10 text-blue-600 mr-2" />
+              <span className="text-gray-600">
+                Khadimalisoomro33@gmail.com
+                kaifsasoli1@gmail.com
+              </span>
             </div>
             <div className="flex items-center justify-center">
               <Phone className="h-6 w-6 text-blue-600 mr-2" />

@@ -5,7 +5,7 @@ import Twitter from '../assets/twitter.png';
 
 export const SocialLogin = () => {
   const googleWithLogin = () => {    
-    window.open(import.meta.env.VITE_BASE_URL, '_self');
+    window.open(`${import.meta.env.VITE_BASE_URL}/auth/google`, '_self');
 };
   
   return (
